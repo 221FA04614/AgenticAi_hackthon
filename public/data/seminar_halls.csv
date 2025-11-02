@@ -1,0 +1,16 @@
+HallName,Capacity,Type,AvailabilityStatus,IoT_Features,WiFiSpeed,AC,SmartBoard,Computers,Mics,SoundSystem,Location,Rating
+Nehru Hall,120,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality,1000,Yes,Yes,30,4,Premium,Main Building - Ground Floor,4.8
+Tagore Hall,80,Non-Technical,Available,Temperature_Sensor|Light_Sensor,500,Yes,No,0,2,Standard,Arts Block - First Floor,4.2
+Gandhi Auditorium,200,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality|Motion_Sensor,1000,Yes,Yes,50,6,Premium,Central Block - Second Floor,4.9
+Vivekananda Hall,60,Non-Technical,Occupied,Temperature_Sensor,300,No,No,0,2,Basic,Library Block - Ground Floor,3.8
+APJ Abdul Kalam Hall,150,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality|Occupancy_Sensor,1000,Yes,Yes,40,4,Premium,Science Block - Third Floor,4.7
+Saraswati Hall,90,Non-Technical,Available,Temperature_Sensor|Light_Sensor,500,Yes,Yes,10,3,Standard,Arts Block - Second Floor,4.3
+Chandrashekhar Hall,180,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality|Motion_Sensor,1000,Yes,Yes,45,5,Premium,Engineering Block - First Floor,4.6
+Ramanujan Hall,70,Technical,Available,Temperature_Sensor|Light_Sensor,800,Yes,Yes,25,3,Standard,Mathematics Block - Ground Floor,4.4
+Bharati Hall,100,Non-Technical,Occupied,Temperature_Sensor,400,Yes,No,5,2,Standard,Cultural Center - First Floor,4.1
+CV Raman Hall,140,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality,1000,Yes,Yes,35,4,Premium,Physics Block - Second Floor,4.5
+Kalpana Chawla Hall,110,Technical,Available,Temperature_Sensor|Light_Sensor|Occupancy_Sensor,900,Yes,Yes,30,4,Standard,Aerospace Block - Third Floor,4.3
+Rabindranath Hall,85,Non-Technical,Available,Temperature_Sensor|Light_Sensor,600,Yes,Yes,8,3,Standard,Literature Block - First Floor,4.2
+Bose Hall,160,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality|Motion_Sensor,1000,Yes,Yes,42,5,Premium,Electronics Block - Second Floor,4.8
+Ashoka Hall,95,Non-Technical,Available,Temperature_Sensor,500,Yes,No,0,2,Basic,History Block - Ground Floor,3.9
+Tesla Hall,130,Technical,Available,Temperature_Sensor|Light_Sensor|Air_Quality,1000,Yes,Yes,38,4,Premium,Innovation Center - First Floor,4.7
