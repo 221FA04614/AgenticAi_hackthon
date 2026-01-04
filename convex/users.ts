@@ -109,7 +109,7 @@ export const getUserProfile = query({
       .unique();
   },
 });
-
+//export const 
 export const getCurrentUserProfile = query({
   args: {},
   handler: async (ctx) => {
@@ -117,7 +117,7 @@ export const getCurrentUserProfile = query({
     if (!userId) {
       return null;
     }
-    
+
     return await ctx.db
       .query("profiles")
       .withIndex("by_user", (q) => q.eq("userId", userId))
